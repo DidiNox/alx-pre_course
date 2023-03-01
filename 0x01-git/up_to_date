@@ -1,1 +1,2 @@
-echo -e "The command Line as the sentence" > up_to_date
+echo up_to_date
+"git pull"
